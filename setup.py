@@ -29,7 +29,7 @@ setup(
         'Programming Language :: Python :: 3.10.12',
         'Topic :: Software Development :: Libraries'
     ],
-    python_requires='>=3.11.5',
+    python_requires='>=3.10.12',
     install_requires=INSTALL_REQUIRES,
     license='License :: BSD License',
 )
