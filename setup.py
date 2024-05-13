@@ -26,7 +26,7 @@ setup(
     packages=find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
-        'Programming Language :: Python :: 3.11.5',
+        'Programming Language :: Python :: 3.10.12',
         'Topic :: Software Development :: Libraries'
     ],
     python_requires='>=3.11.5',
